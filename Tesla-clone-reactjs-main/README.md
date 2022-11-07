@@ -21,7 +21,7 @@ This is Responsive real-like Tesla Clone built with ReactJs,React-router, Fireba
 
 --> Your personal dashboard on account tab
 
-## Installation
+## Run
 
 node.js is required to get `npm`.
 
@@ -31,5 +31,5 @@ Build project:`npm start`
 
 Open your browser at: `http://localhost:3000`
 
-## Contacts
+## Linkeidn
 <a href="https://www.linkedin.com/in/gordianetim/" target="_blank"></i>LinkedIn</a>

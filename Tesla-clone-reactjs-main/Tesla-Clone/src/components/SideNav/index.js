@@ -1,6 +1,6 @@
 import React from 'react'
 import { Wrapper,Content} from './sidenav.style'
-
+//imports link from react-router-dom
 import { Link } from 'react-router-dom'
 
 function SideNav({ show }) {

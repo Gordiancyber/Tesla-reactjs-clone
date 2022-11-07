@@ -20,6 +20,6 @@ const userSlice = createSlice({
 export const { login,logout } = userSlice.actions
 
 export const selectUser = state => state.user.user
-// first user is defined in userslice_name & 2nd in initialstate
+// first user is defined in userslice_name & 2nd in initial state
 
 export default userSlice.reducer

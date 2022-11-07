@@ -125,5 +125,6 @@ export const Content1 = styled.div`
     }
     @media screen and (max-width: 400px){
         right: 15px;
+    
     }
 `;

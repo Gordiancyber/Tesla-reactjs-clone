@@ -11,6 +11,7 @@ import Footer from "../Footer";
 const Model3 = () =>{
     document.title = "Model 3 | Tesla";
     return(
+
         <Wrapper>
             <Header/>
             <Section 
@@ -27,5 +28,6 @@ const Model3 = () =>{
         </Wrapper>
     )
 }
+
 
 export default Model3;

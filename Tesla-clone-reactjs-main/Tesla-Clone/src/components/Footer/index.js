@@ -13,9 +13,10 @@ const Footer = ({bottom}) =>{
                 <div>
                 <a href="mailto:etimgordian@gmail.com" target='_blank'>Gmail</a>
                 <a href="https://www.linkedin.com/in/gordianetim/" target="_blank" >LinkedIn</a>
-                <a href="https://github.com/gordiancyber" target="_blank" >GitHub</a>
+                <a href="https://github.com/gordiancyber" target="_blank">GitHub</a>
                 </div>
             </Content>
+            
         </Wrapper>
     )
 }
